@@ -1,0 +1,9 @@
+{
+  "file_id": "0705",
+  "start_time": 3.5,
+  "end_time": 5.5,
+  "duration": 2.0,
+  "mode": 2,
+  "sample_rate": 100000.0,
+  "data_points": 200000
+}
